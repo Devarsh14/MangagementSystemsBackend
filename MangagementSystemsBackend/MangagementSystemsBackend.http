@@ -1,0 +1,6 @@
+@MangagementSystemsBackend_HostAddress = http://localhost:5187
+
+GET {{MangagementSystemsBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
